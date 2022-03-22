@@ -1,0 +1,220 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.headertc{
+	padding: 20px 10px;
+}
+.headertc img{
+	height: 50px;
+	padding-left: 100px;
+}
+.headertc ul li{
+	display: inline;
+	padding: 5px 5px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.headertc ul{
+	float: right;
+	padding-right: 100px;
+	padding-top: 20px;
+}
+.headertc input{
+	background: #4D2519;
+	padding: 10px;
+	color: white;
+	border-radius: 20px;
+	border: none;
+}
+.headertc button{
+	background: #4D2519;
+	padding: 10px;
+	color: white;
+	border-radius: 20px;
+	border: none;
+	margin: 10px;
+}
+.truyen{
+	display: flex;
+	justify-content: space-around;
+	margin: 50px 10px;
+	height: 1100px;
+	background: white;
+}
+.tra{
+	width: 25%;
+	background-image: url("nentra.jpg");
+	background-size: cover;
+	color: white;
+	padding: 20px;
+	border-radius: 10px;
+	margin: 20px 5px;
+}
+.caphe{
+	width: 25%;
+	background-image: url("nencaphe.jpg");
+	color: white;
+	background-size: cover;
+	padding: 20px;
+	border-radius: 10px;
+	margin: 20px 5px;
+}
+.kem{
+	width: 25%;
+	background-image: url("nenkem.jpg");
+	background-size: cover;
+	color: white;
+	padding: 20px;
+	border-radius: 10px;
+	margin: 20px 5px;
+}
+.truyen h3{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	padding: 10px 5px;
+}
+.truyen p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 100;
+	padding: 10px 5px;
+}
+
+.chinhanh{
+	padding: 10px;
+	padding-top: 5px;
+}
+.hanoi{
+	padding: 10px;
+}
+.chinhanh ul{
+	list-style: none;
+}
+.hanoi h1{
+	width: 400px;
+	background: #4D2519;
+	text-align: center;
+	padding: 5px;
+	border-radius: 30px;
+	color: white;
+	font-weight: 200;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.cothn{
+	display: flex;
+	color: #4D2519;
+	padding: 15px;
+	font-size: 13px;
+	justify-content: space-around;
+}
+.cot1{
+	width: 25%;
+}
+.cot2{
+	width: 25%;
+}
+.cot3{
+	width: 25%;
+}
+.cot4{
+	width: 25%;
+}
+.mientrung{
+	padding: 10px;
+}
+.mientrung h1{
+	width: 450px;
+	background: #4D2519;
+	text-align: center;
+	padding: 5px;
+	border-radius: 30px;
+	color: white;
+	font-weight: 200;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.cotmt{
+	display: flex;
+	color: #4D2519;
+	padding: 15px;
+	font-size: 13px;
+	justify-content: flex-start;
+}
+.cot1mt{
+	width: 25%;
+}
+.cot2mt{
+	width: 25%;
+}
+.cot3mt{
+	width: 25%;
+}
+.miennam{
+	padding: 10px;
+}
+.miennam h1{
+	width: 450px;
+	background: #4D2519;
+	text-align: center;
+	padding: 5px;
+	border-radius: 30px;
+	color: white;
+	font-weight: 200;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.cotmn{
+	width: 25%;
+	display: flex;
+	color: #4D2519;
+	padding: 5px;
+	padding-top: 15px;
+	font-size: 13px;
+	justify-content: flex-start;
+}
+.lienhe{
+	height: 100px;
+	background: white;
+	padding: 50px;
+	padding-left: 100px;
+}
+.lienhe h3{
+	padding: 5px;
+}
+.phuongthuc{
+	display: flex;
+}
+.sdt{
+	display: flex;
+	padding: 5px;
+}
+.mail{
+	display: flex;
+	padding: 5px;
+}
+.fb{
+	display: flex;
+	padding: 5px;
+}
+.sdt img{
+	height: 50px;
+}
+.mail img{
+	height: 40px;
+	padding-left: 5px;
+}
+.fb img{
+	height: 50px;
+}
+.sdt span{
+	padding: 15px 10px;
+}
+.mail span{
+	padding: 12px;
+}
+.fb span{
+	padding: 12px;
+}
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif ;
+}

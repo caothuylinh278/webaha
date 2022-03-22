@@ -1,0 +1,546 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.headertc{
+	padding: 20px 10px;
+}
+.headertc img{
+	height: 50px;
+	padding-left: 100px;
+}
+.headertc ul li{
+	display: inline;
+	padding: 5px 5px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.headertc ul{
+	float: right;
+	padding-right: 100px;
+	padding-top: 20px;
+}
+.headertc input{
+	background: #4D2519;
+	padding: 10px;
+	color: white;
+	border-radius: 20px;
+	border: none;
+}
+.headertc button{
+	background: #4D2519;
+	padding: 10px;
+	color: white;
+	border-radius: 20px;
+	border: none;
+	margin: 10px;
+}
+.banner{
+	padding: 50px 100px;
+	background-image: url("banner.jfif");
+	background-position: center;
+	background-size: cover;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 10px 0px;
+}
+.banner h2{
+	padding-bottom: 10px;
+}
+.menu{
+	background: white;
+}
+.caphe{
+	padding: 50px 30px;
+}
+.caphe img{
+	height: 100px;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 20px;
+}
+.caphe h2{
+	font-size: 30px;
+	background: #4D2519;
+	width: 130px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 5px;
+	text-align: center;
+	border-radius: 30px;
+	margin-left: 40px;
+}
+.spcaphe span{
+	display: block;
+	padding-left: 50px;
+	padding-right: 20px;
+	padding-top: 5px;
+	color: #4D2519;
+}
+.spcaphe h3{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #4D2519;
+	padding-top: 40px;
+}
+.spcaphe input{
+	padding: 5px;
+	margin-top: 5px;
+	background: #CABFBC;
+	border: none;
+	border-radius: 10px;
+	color: #4D2519;
+}
+.cafeden{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.cafesua{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.nauda{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.americano{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.latte{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.cappuccino{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.cacaohatdesuadua{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.cfcot1{
+	display: flex;
+	justify-content: flex-start;
+}
+.cfcot2{
+	display: flex;
+	justify-content: flex-start;
+}
+.cfcot3{
+	display: flex;
+	justify-content: flex-start;
+}
+.tra{
+	padding: 50px 30px;
+}
+.tra img{
+	height: 100px;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 20px;
+}
+.tra h2{
+	font-size: 30px;
+	background: #4D2519;
+	width: 70px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 5px;
+	text-align: center;
+	border-radius: 30px;
+	margin-left: 40px;
+}
+.sptra span{
+	display: block;
+	padding-left: 50px;
+	padding-right: 20px;
+	padding-top: 5px;
+	color: #4D2519;
+}
+.sptra h3{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #4D2519;
+	padding-top: 40px;
+}
+.sptra input{
+	padding: 5px;
+	margin-top: 5px;
+	background: #CABFBC;
+	border: none;
+	border-radius: 10px;
+	color: #4D2519;
+}
+.tradao{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.travai{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.tradaocamsa{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.traoihong{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.trabuoihong{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.tragungxoai{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.trahoaquanhietdoi{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.tradambutkemchanhleo{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.trabanhquybogung{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.tracot1{
+	display: flex;
+	justify-content: flex-start;
+}
+.tracot2{
+	display: flex;
+	justify-content: flex-start;
+}
+.tracot3{
+	display: flex;
+	justify-content: flex-start;
+}
+.nuocep{
+	padding: 50px 30px;
+}
+.nuocep img{
+	height: 100px;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 20px;
+}
+.nuocep h2{
+	font-size: 30px;
+	background: #4D2519;
+	width: 140px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 5px;
+	text-align: center;
+	border-radius: 30px;
+	margin-left: 40px;
+}
+.spnuocep span{
+	display: block;
+	padding-left: 50px;
+	padding-right: 20px;
+	padding-top: 5px;
+	color: #4D2519;
+}
+.spnuocep h3{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #4D2519;
+	padding-top: 40px;
+}
+.spnuocep input{
+	padding: 5px;
+	margin-top: 5px;
+	background: #CABFBC;
+	border: none;
+	border-radius: 10px;
+	color: #4D2519;
+}
+.sinhtoduaxiem{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.sinhtoxoai{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.nuocchanhleo{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.epbuoi{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.epcam{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.epdua{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.epoi{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.sodachanhkemdau{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.nuocepcot1{
+	display: flex;
+	justify-content: flex-start;
+}
+.nuocepcot2{
+	display: flex;
+	justify-content: flex-start;
+}
+.nuocepcot3{
+	display: flex;
+	justify-content: flex-start;
+}
+.kem{
+	padding: 50px 30px;
+}
+.kem img{
+	height: 100px;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 20px;
+}
+.kem h2{
+	font-size: 30px;
+	background: #4D2519;
+	width: 100px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 5px;
+	text-align: center;
+	border-radius: 30px;
+	margin-left: 40px;
+}
+.spkem span{
+	display: block;
+	padding-left: 50px;
+	padding-right: 20px;
+	padding-top: 5px;
+	color: #4D2519;
+}
+.spkem h3{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #4D2519;
+	padding-top: 40px;
+}
+.spkem input{
+	padding: 5px;
+	margin-top: 5px;
+	background: #CABFBC;
+	border: none;
+	border-radius: 10px;
+	color: #4D2519;
+}
+.dau{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.scl{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.traxanh{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.duamatcha{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.suadua{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.kemcot1{
+	display: flex;
+	justify-content: flex-start;
+}
+.kemcot2{
+	display: flex;
+	justify-content: flex-start;
+}
+.thucuongkhac{
+	padding: 50px 30px;
+}
+.thucuongkhac img{
+	height: 100px;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 20px;
+}
+.thucuongkhac h2{
+	font-size: 30px;
+	background: #4D2519;
+	width: 250px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 5px;
+	text-align: center;
+	border-radius: 30px;
+	margin-left: 40px;
+}
+.spthucuongkhac span{
+	display: block;
+	padding-left: 50px;
+	padding-right: 20px;
+	padding-top: 5px;
+	color: #4D2519;
+}
+.spthucuongkhac h3{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #4D2519;
+	padding-top: 40px;
+}
+.spthucuongkhac input{
+	padding: 5px;
+	margin-top: 5px;
+	background: #CABFBC;
+	border: none;
+	border-radius: 10px;
+	color: #4D2519;
+}
+.bachascldaxay{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.ckchocodaxay{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.matchadaxay{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.suachuacacao{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.suachuachanhleo{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.hoaquadamsc{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.hongtrasua{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.trasuamatchadaudo{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.phucbontukemvani{
+	display: flex;
+	height: 160px;
+	width: 30%;
+}
+.thucuongkhaccot1{
+	display: flex;
+	justify-content: flex-start;
+}
+.thucuongkhaccot2{
+	display: flex;
+	justify-content: flex-start;
+}
+.thucuongkhaccot3{
+	display: flex;
+	justify-content: flex-start;
+}
+.lienhe{
+	height: 100px;
+	background: white;
+	padding: 50px;
+	padding-left: 100px;
+}
+.lienhe h3{
+	padding: 5px;
+}
+.phuongthuc{
+	display: flex;
+}
+.sdt{
+	display: flex;
+	padding: 5px;
+}
+.mail{
+	display: flex;
+	padding: 5px;
+}
+.fb{
+	display: flex;
+	padding: 5px;
+}
+.sdt img{
+	height: 50px;
+}
+.mail img{
+	height: 40px;
+	padding-left: 5px;
+}
+.fb img{
+	height: 50px;
+}
+.sdt span{
+	padding: 15px 10px;
+}
+.mail span{
+	padding: 12px;
+}
+.fb span{
+	padding: 12px;
+}
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif ;
+}
